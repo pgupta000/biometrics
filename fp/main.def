@@ -1,0 +1,9 @@
+LIBRARY main
+EXPORTS
+mainInitialize
+mainInitializeWithHandlers
+mainTerminate
+mainPrintStackTrace
+mlxMain
+mlfMain
+
